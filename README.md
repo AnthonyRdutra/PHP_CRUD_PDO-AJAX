@@ -4,6 +4,9 @@ Second iteration of my CRUD, now with AJAX, for finding 'names' and 'email' and 
 
 # Tecnologies
 
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="70" height="70"/> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="60" height="60"/>
+
 # AJAX
 Adding ajax via hhtp on the code, just paste it on HTML code, on the hearders:
 ````
