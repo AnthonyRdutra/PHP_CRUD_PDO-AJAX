@@ -1,5 +1,5 @@
 # PHP_CRUD_PDO-AJAX
-Second iteration of my CRUD, now with AJAX, for finding 'names' and 'email' and better modularity 
+CRUD in PHP using AJAX 
 
 
 # Tecnologies
